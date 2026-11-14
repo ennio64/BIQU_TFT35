@@ -1,0 +1,14 @@
+# Cartelle di compilazione PlatformIO
+.pio/
+.pioenvs/
+.piolib/
+.piolibdeps/
+
+# Impostazioni locali VS Code e file temporanei
+.vscode/
+*.o
+*.elf
+*.bin
+*.CUR
+.DS_Store
+Thumbs.db
